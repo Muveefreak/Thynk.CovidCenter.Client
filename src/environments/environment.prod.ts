@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
   baseURI:
-    'https://localhost:5001/api/',
+    'http://thynkcovidcenter-env.eba-y3vj8n6i.us-east-2.elasticbeanstalk.com/api/',
 };
