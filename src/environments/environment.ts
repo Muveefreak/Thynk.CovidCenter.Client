@@ -6,7 +6,7 @@ export const environment = {
   production: false,
   baseURI:
     //'http://thynkcovidcenter-env.eba-y3vj8n6i.us-east-2.elasticbeanstalk.com/api/',
-    'http://http://ihenyenpaul-001-site1.btempurl.com/api/',
+    'http://ihenyenpaul-001-site1.btempurl.com/api/',
 };
 
 /*
